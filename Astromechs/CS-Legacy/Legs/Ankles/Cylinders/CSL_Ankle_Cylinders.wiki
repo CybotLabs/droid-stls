@@ -1,0 +1,80 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Ankle Cylinders|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+ 
+The CSL Ankle cylinders consists of two files.  The endcap (two required) and the tube.
+
+=== End Cap ===
+[[File:CSL_Ankle_Cylinder_EndCap_Rev1.png|200px]]
+
+{| class="wikitable"
+|+End Cap
+|-
+|Length
+|35.00 mm
+|-
+|Width
+|34.97 mm
+|-
+|Height
+|27.80 mm
+|-
+|Volume 
+|19.96 cm2
+|-
+|Area
+|48.13 cm2
+|}
+
+
+=== Cylinder Tube ===
+[[File:CSL_Ankle_Cylinder_Tube_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Cylinder Tube
+|-
+|Length
+|27.50 mm
+|-
+|Width
+|34.97 mm
+|-
+|Height
+|128.60 mm
+|-
+|Volume 
+|103.78 cm2
+|-
+|Area
+|153.38 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Ankle_Cylinder_EndCap_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Ankle_Cylinder_Tube_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

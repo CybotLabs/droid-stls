@@ -1,0 +1,102 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Ankles|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+ 
+
+The CSL Ankle consists of three pieces.  
+
+=== Ankle Part 1 ===
+[[File:CSL_Ankle_Part1_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 1
+|-
+|Length
+|128.27 mm
+|-
+|Width
+|159.38 mm
+|-
+|Height
+|63.50 mm
+|-
+|Volume 
+|670.07 cm2
+|-
+|Area
+|801.07 cm2
+|}
+
+=== Ankle Part 2 ===
+[[File:CSL_Ankle_Part2_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 2
+|-
+|Length
+|128.27 mm
+|-
+|Width
+|47.63 mm
+|-
+|Height
+|63.50 mm
+|-
+|Volume 
+|140.21 cm2
+|-
+|Area
+|385.64 cm2
+|}
+
+
+=== Ankle Part 3 ===
+[[File:CSL_Ankle_Part3_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 3
+|-
+|Length
+|128.27 mm
+|-
+|Width
+|104.14 mm
+|-
+|Height
+|44.42 mm
+|-
+|Volume 
+|271.33 cm2
+|-
+|Area
+|379.27 cm2
+|}
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Ankle_Part1_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Ankle_Part2_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Ankle_Part3_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

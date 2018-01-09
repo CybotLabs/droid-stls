@@ -1,0 +1,15 @@
+CSL_Leg_Front_Rev1
+
+Length: 203.86 mm
+Width: 556.92 mm
+Height: 22.24 mm
+Volume: 1614.13 cm2
+Area: 1991.06 cm2
+
+CSL_Leg_Rear_Rev1
+
+Length: 203.86 mm
+Width: 556.92 mm
+Height: 22.24 mm
+Volume: 1640.53 cm2
+Area: 2061.92 cm2

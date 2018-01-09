@@ -1,0 +1,103 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Booster Covers|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== One Piece Design Booster  ==
+ 
+
+=== Booster Cover ===
+[[File:CSL_Booster_Cover_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Wedge
+|-
+|Length
+|80.58 mm
+|-
+|Width
+|318.39 mm
+|-
+|Height
+|50.93 mm
+|-
+|Volume 
+|594.08 cm2
+|-
+|Area
+|813.05 cm2
+|}
+
+
+== Two Piece Design ==
+
+=== Bottom ===
+[[File:CSL_Booster_Cover_Bottom_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Booster Cover Top
+|-
+|Length
+|80.58 mm
+|-
+|Width
+|150.00 mm
+|-
+|Height
+|26.97 mm
+|-
+|Volume 
+|195.97 cm2
+|-
+|Area
+|353.07 cm2
+|}
+
+=== Top ===
+[[File:CSL_Booster_Cover_Top_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Booster Cover Top
+|-
+|Length
+|79.38 mm
+|-
+|Width
+|168.39 mm
+|-
+|Height
+|50.93 mm
+|-
+|Volume 
+|397.10 cm2
+|-
+|Area
+|484.05 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Booster_Cover_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Booster_Cover_Bottom_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Booster_Cover_Top_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

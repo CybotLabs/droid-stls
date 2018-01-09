@@ -1,0 +1,81 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Foot Shells|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Foot Shells are a 'reference part'.  These have not been tested as a full size print.  (I print these in 50% scale for the mini-droid -SS) 
+
+
+=== Center Foot ===
+[[File:CSL_FootShell_Center_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Center Foot
+|-
+|Length
+|180.34 mm
+|-
+|Width
+|268.90 mm
+|-
+|Height
+|141.28 mm
+|-
+|Volume 
+|821.71 cm2
+|-
+|Area
+|2226.59 cm2
+|}
+
+
+=== Outer Foot ===
+[[File:CSL_FootShell_Outer_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Outer Foot
+|-
+|Length
+|180.34 mm
+|-
+|Width
+|355.60 mm
+|-
+|Height
+|162.03 mm
+|-
+|Volume 
+|744.44 cm2
+|-
+|Area
+|3245.57 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_FootShell_Center_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_FootShell_Outer_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]
+

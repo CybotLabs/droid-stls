@@ -1,0 +1,124 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Utility Arms |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Utility Arms come in four pieces.  Two for the arm and two for the integrated carrier housing.
+
+
+=== Utility Arm Part 1 ===
+[[File:CSL_Utility_Arm_1_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Utility Arm Part 1
+|-
+|Length
+|34.93 mm
+|-
+|Width
+|56.73 mm
+|-
+|Height
+|139.79 mm
+|-
+|Volume 
+|158.04 cm2
+|-
+|Area
+|206.75 cm2
+|}
+
+=== Utility Arm Part 2 ===
+[[File:CSL_Utility_Arm_2_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Utility Arm Part 2
+|-
+|Length
+|36.77 mm
+|-
+|Width
+|31.80 mm
+|-
+|Height
+|101.77 mm
+|-
+|Volume 
+|58.72 cm2
+|-
+|Area
+|109.47 cm2
+|}
+
+=== Utility Arm Housing Part 1 ===
+[[File:CSL_Utility_Arm_Housing_1_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Utility Arm Housing Part 1
+|-
+|Length
+|50.88 mm
+|-
+|Width
+|126.90 mm
+|-
+|Height
+|43.77 mm
+|-
+|Volume 
+|74.56 cm2
+|-
+|Area
+|287.92 cm2
+|}
+
+=== Utility Arm Housing Part 2 ===
+[[File:CSL_Utility_Arm_Housing_2_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Utility Arm Housing Part 2
+|-
+|Length
+|50.89 mm
+|-
+|Width
+|126.90 mm
+|-
+|Height
+|43.76 mm
+|-
+|Volume 
+|75.04 cm2
+|-
+|Area
+|287.62 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Utility_Arm_1_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Utility_Arm_2_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Utility_Arm_Housing_1_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Utility_Arm_Housing_2_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+|2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

@@ -1,0 +1,83 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CSL: Large Data Port |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = May 09, 2015|
+ updated  = May 09, 2015|
+ note = Collection of 3D STL files for various parts.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The large data port is printed in two pieces and then welded together.
+
+
+=== Top Piece ===
+[[File:CSL_Large_Data_Port_Top_Rev1.png|200px]]
+
+{| class="wikitable"
+|+LDP Top Piece
+|-
+|Length
+|186.75 mm
+|-
+|Width
+|188.49 mm
+|-
+|Height
+|7.92 mm
+|-
+|Volume 
+|45.57 cm2
+|-
+|Area
+|160.88 cm2
+|}
+
+=== Bottom Piece ===
+[[File:CSL_Large_Data_Port_Bottom_Rev1.png|200px]]
+
+{| class="wikitable"
+|+LDP Bottom Piece
+|-
+|Length
+|185.04 mm
+|-
+|Width
+|177.68 mm
+|-
+|Height
+|23.05 mm
+|-
+|Volume 
+|26.38 cm2
+|-
+|Area
+|140.71 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Data_Port_Top_Rev1.stl.zip]] Contains the Top STL file in Zip format.<br>
+
+[[Media:CSL_Data_Port_Bottom_Rev1.stl.zip]] Contains the Bottom STL file in Zip format.
+
+
+
+== Revision History  ==
+
+2015/05/11 - Added Rev 1 file.
+2015/06/08 - Updated Wiki entry and applied format
+
+
+[[Category:3D Files]]

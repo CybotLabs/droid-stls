@@ -1,0 +1,80 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CSL: Center Vents |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = May 09, 2015|
+ updated  = May 09, 2015|
+ note = Collection of 3D STL files for various parts.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+
+=== Center Vent Top ===
+[[File:CSL_CenterVent_Top_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Center Vent Top
+|-
+|Length
+|76.20 mm
+|-
+|Width
+|85.72 mm
+|-
+|Height
+|49.23 mm
+|-
+|Volume 
+|93.83 cm2
+|-
+|Area
+|498.26 cm2
+|}
+
+
+
+=== Center Vent Bottom ===
+[[File:CSL_CenterVent_Bottom_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Center Vent Top
+|-
+|Length
+|76.20 mm
+|-
+|Width
+|88.35 mm
+|-
+|Height
+|40.54 mm
+|-
+|Volume 
+|83.30 cm2
+|-
+|Area
+|311.10 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_CenterVent_Top_Rev1.stl.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_CenterVent_Bottom_Rev1.stl.zip]] Contains the STL file in Zip format.<br>
+
+
+
+== Revision History  ==
+
+|2015/05/11 - Added Rev 1 file.
+|2015/06/08 - Updated listing to combined file and cleaned. 
+
+[[Category:3D Files]]

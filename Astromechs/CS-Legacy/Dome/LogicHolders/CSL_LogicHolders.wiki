@@ -1,0 +1,79 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Logic Holders |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Logic Holders comes in two part.
+
+
+=== Front Logic Bezel ===
+[[File:CSL_Front_Logic_Display_Bezel_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Front Logic Display Bezel
+|-
+|Length
+|63.50 mm
+|-
+|Width
+|31.75 mm
+|-
+|Height
+|11.43 mm
+|-
+|Volume 
+|10.07 cm2
+|-
+|Area
+|57.34 cm2
+|}
+
+=== Rear Logic Bezel ===
+[[File:CSL_Rear_Logic_Display_Bezel_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Rear Logic Display Bezel
+|-
+|Length
+|131.00 mm
+|-
+|Width
+|20.70 mm
+|-
+|Height
+|31.70 mm
+|-
+|Volume 
+|36.49 cm2
+|-
+|Area
+|143.09 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Front_Logic_Display_Bezel_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Rear_Logic_Display_Bezel_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

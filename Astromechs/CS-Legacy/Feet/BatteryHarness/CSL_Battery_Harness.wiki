@@ -1,0 +1,126 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Battery Harness |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Battery Harness comes in four parts for printing.
+
+
+=== Battery Harness Lower Mount ===
+[[File:CSL_Battery_Harness_Lower_Mount_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Lower Mount
+|-
+|Length
+|19.05 mm
+|-
+|Width
+|9.52 mm
+|-
+|Height
+|12.70 mm
+|-
+|Volume 
+|1.29 cm2
+|-
+|Area
+|10.03 cm2
+|}
+
+=== Battery Harness Lower ===
+[[File:CSL_Battery_Harness_Lower_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Lower Arm
+|-
+|Length
+|19.05 mm
+|-
+|Width
+|120.65 mm
+|-
+|Height
+|15.88 mm
+|-
+|Volume 
+|16.74 cm2
+|-
+|Area
+|60.46 cm2
+|}
+
+=== Battery Harness Pivot ===
+[[File:CSL_Battery_Harness_Pivot_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Pivot
+|-
+|Length
+|12.70 mm
+|-
+|Width
+|10.16 mm
+|-
+|Height
+|13.97 mm
+|-
+|Volume 
+|0.77 cm2
+|-
+|Area
+|7.09 cm2
+|}
+
+=== Battery Harness Top ===
+[[File:CSL_Battery_HarnessTop_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Top
+|-
+|Length
+|12.70 mm
+|-
+|Width
+|16.19 mm
+|-
+|Height
+|22.84 mm
+|-
+|Volume 
+|2.17 cm2
+|-
+|Area
+|14.37 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Battery_Harness_Lower_Mount_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Battery_Harness_Lower_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Battery_Harness_Pivot_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Battery_HarnessTop_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]
+

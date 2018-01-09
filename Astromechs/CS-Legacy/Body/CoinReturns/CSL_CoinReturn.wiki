@@ -1,0 +1,80 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CSL: Coin Return |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = May 09, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+
+=== Coin Return Front ===
+[[File:CSL_Coin_Return_Front_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Coin Return Front
+|-
+|Length
+|102.09 mm
+|-
+|Width
+|62.84 mm
+|-
+|Height
+|61.53 mm
+|-
+|Volume 
+|127.51 cm2
+|-
+|Area
+|233.37 cm2
+|}
+
+
+=== Coin Return Right ===
+[[File:CSL_Coin_Return_Right_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Coin Return Right
+|-
+|Length
+|85.15 mm
+|-
+|Width
+|46.65 mm
+|-
+|Height
+|68.65 mm
+|-
+|Volume 
+|101.12 cm2
+|-
+|Area
+|204.82 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Coin_Return_Front_Rev1.stl.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Coin_Return_Right_Rev1.stl.zip]] Contains the STL file in Zip format.<br>
+
+
+
+== Revision History  ==
+
+2015/05/11 - Added Rev 1 file.
+2015/06/08 - Combined Front and Right into one entry
+<br> 
+
+[[Category:3D Files]]

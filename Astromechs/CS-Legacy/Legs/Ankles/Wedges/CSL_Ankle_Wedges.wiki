@@ -1,0 +1,54 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Ankle Wedges|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+ 
+
+=== Ankle Wedge ===
+[[File:CSL_Ankle_Wedge_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Wedge
+|-
+|Length
+|57.15 mm
+|-
+|Width
+|35.86 mm
+|-
+|Height
+|23.53 mm
+|-
+|Volume 
+|17.55 cm2
+|-
+|Area
+|60.13 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Ankle_Wedge_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

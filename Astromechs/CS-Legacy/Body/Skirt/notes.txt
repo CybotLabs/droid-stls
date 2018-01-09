@@ -1,0 +1,33 @@
+Skirt 1
+
+Length: 129.64 mm
+Width: 190.11 mm
+Height: 66.50 mm
+Volume: 594.36 cm2
+Area: 627.09 cm2
+
+Skirt 2
+
+Length: 129.64 mm
+Width: 190.11 mm
+Height: 66.50 mm
+Volume: 594.31 cm2
+Area: 629.50 cm2
+
+
+Skirt 3
+
+Length: 127.72 mm
+Width: 100.47 mm
+Height: 66.50 mm
+Volume: 300.30 cm2
+Area: 373.12 cm2
+
+Skirt 4
+
+Length: 127.72 mm
+Width: 100.47 mm
+Height: 66.50 mm
+Volume: 300.32 cm2
+Area: 373.13 cm2
+

@@ -1,0 +1,103 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Holo Eye |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Holo Eye comes in three pieces.
+
+
+=== HoloEye Main Body ===
+[[File:CSL_HoloEye_Body_Rev1.png|200px]]
+
+{| class="wikitable"
+|+HoloEye Body
+|-
+|Length
+|61.90 mm
+|-
+|Width
+|61.93 mm
+|-
+|Height
+|69.23 mm
+|-
+|Volume 
+|79.45 cm2
+|-
+|Area
+|211.23 cm2
+|}
+
+=== HoloEye Outer Cowling ===
+[[File:CSL_HoloEye_Cowl_Outer_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Outer Cowl
+|-
+|Length
+|79.00 mm
+|-
+|Width
+|70.00 mm
+|-
+|Height
+|31.30 mm
+|-
+|Volume 
+|8.27 cm2
+|-
+|Area
+|135.66 cm2
+|}
+
+=== HoloEye Upper Cowling ===
+[[File:CSL_HoloEye_Cowl_Upper_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Upper Cowling
+|-
+|Length
+|79.00 mm
+|-
+|Width
+|70.00 mm
+|-
+|Height
+|20.90 mm
+|-
+|Volume 
+|5.72 cm2
+|-
+|Area
+|94.18 cm2
+|}
+
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_HoloEye_Body_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_HoloEye_Cowl_Outer_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_HoloEye_Cowl_Upper_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

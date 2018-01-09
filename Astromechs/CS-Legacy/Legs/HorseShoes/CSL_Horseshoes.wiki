@@ -1,0 +1,290 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Horseshoes|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+ 
+
+== Two Piece Horseshoes ==
+It may seem confusing to call them two piece, but not the horseshoes are a mirror so you will need both.  
+
+=== Left Horseshoe ===
+[[File:CSL_Horseshoe_Left_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Left
+|-
+|Length
+|203.81 mm
+|-
+|Width
+|267.33 mm
+|-
+|Height
+|22.23 mm
+|-
+|Volume 
+|534.04 cm2
+|-
+|Area
+|961.07 cm2
+|}
+
+=== Right Horseshoe ===
+[[File:CSL_Horseshoe_Right_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Left
+|-
+|Length
+|203.81 mm
+|-
+|Width
+|267.33 mm
+|-
+|Height
+|22.23 mm
+|-
+|Volume 
+|534.04 cm2
+|-
+|Area
+|961.07 cm2
+|}
+
+=== Shim ===
+[[File:CSL_Horseshoe_Shim_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Shim
+|-
+|Length
+|200.66 mm
+|-
+|Width
+|262.60 mm
+|-
+|Height
+|3.17 mm
+|-
+|Volume 
+|83.73 cm2
+|-
+|Area
+|564.61 cm2
+|}
+
+== Eight Piece Design ==
+
+=== Horseshoe 1 of 8 ===
+[[File:CSL_Horseshoe_1_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 1
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|127.23 mm
+|-
+|Height
+|124.24 mm
+|-
+|Volume 
+|106.92 cm2
+|-
+|Area
+|269.51 cm2
+|}
+
+=== Horseshoe 2 of 8 ===
+[[File:CSL_Horseshoe_2_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 2
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|127.18 mm
+|-
+|Height
+|124.28 mm
+|-
+|Volume 
+|130.75 cm2
+|-
+|Area
+|259.06 cm2
+|}
+
+=== Horseshoe 3 of 8 ===
+[[File:CSL_Horseshoe_3_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 3
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|94.10 mm
+|-
+|Height
+|131.15 mm
+|-
+|Volume 
+|187.39 cm2
+|-
+|Area
+|271.60 cm2
+|}
+
+=== Horseshoe 4 of 8 ===
+[[File:CSL_Horseshoe_4_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 4
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|96.78 mm
+|-
+|Height
+|131.55 mm
+|-
+|Volume 
+|192.70 cm2
+|-
+|Area
+|276.42 cm2
+|}
+
+=== Horseshoe 5 of 8 ===
+[[File:CSL_Horseshoe_5_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 5
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|127.23 mm
+|-
+|Height
+|124.24 mm
+|-
+|Volume 
+|106.92 cm2
+|-
+|Area
+|269.51 cm2
+|}
+
+=== Horseshoe 6 of 8 ===
+[[File:CSL_Horseshoe_6_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 6
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|127.23 mm
+|-
+|Height
+|124.24 mm
+|-
+|Volume 
+|130.75 cm2
+|-
+|Area
+|259.06 cm2
+|}
+
+=== Horseshoe 7 of 8 ===
+[[File:CSL_Horseshoe_7_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 7
+|-
+|Length
+|24.40 mm
+|-
+|Width
+|94.10 mm
+|-
+|Height
+|131.15 mm
+|-
+|Volume 
+|187.39 cm2
+|-
+|Area
+|271.60 cm2
+|}
+
+=== Horseshoe 8 of 8 ===
+[[File:CSL_Horseshoe_8_of_8_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 8
+|-
+|Length
+|25.40 mm
+|-
+|Width
+|96.78 mm
+|-
+|Height
+|131.55 mm
+|-
+|Volume 
+|192.71 cm2
+|-
+|Area
+|276.42 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Horseshoe_Left_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_Right_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_Shim_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_1_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_2_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_3_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_4_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_5_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_6_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_7_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Horseshoe_8_of_8_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

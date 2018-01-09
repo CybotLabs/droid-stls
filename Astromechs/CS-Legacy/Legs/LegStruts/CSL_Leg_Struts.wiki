@@ -1,0 +1,102 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Leg Struts|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+
+
+The leg struts consist of three parts. 
+
+=== Leg Strut Part 1 ===
+[[File:CSL_Leg_Strut_1_of_3_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Leg Strut 1 or 3
+|-
+|Length
+|28.57 mm
+|-
+|Width
+|28.57 mm
+|-
+|Height
+|75.60 mm
+|-
+|Volume 
+|23.25 cm2
+|-
+|Area
+|74.32 cm2
+|}
+
+=== Leg Strut Part 2 ===
+[[File:CSL_Leg_Strut_2_of_3_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Leg Strut 2 or 3
+|-
+|Length
+|19.05 mm
+|-
+|Width
+|19.05 mm
+|-
+|Height
+|132.08 mm
+|-
+|Volume 
+|33.79 cm2
+|-
+|Area
+|79.91 cm2
+|}
+
+=== Leg Strut Part 3 ===
+[[File:CSL_Leg_Strut_3_of_3_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Leg Strut 3 or 3
+|-
+|Length
+|28.57 mm
+|-
+|Width
+|28.58 mm
+|-
+|Height
+|30.15 mm
+|-
+|Volume 
+|20.51 cm2
+|-
+|Area
+|53.71 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Leg_Strut_1_of_3_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Leg_Strut_2_of_3_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Leg_Strut_3_of_3_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

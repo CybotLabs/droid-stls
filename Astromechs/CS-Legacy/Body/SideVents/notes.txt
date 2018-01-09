@@ -1,0 +1,7 @@
+Side Vent:
+
+Length: 153.82 mm
+Width: 108.93 mm
+Height: 12.49 mm
+Volume: 144.51 cm2
+Area: 423.46 cm2

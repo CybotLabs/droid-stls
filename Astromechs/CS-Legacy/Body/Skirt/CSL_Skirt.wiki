@@ -1,0 +1,124 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Skirt |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Skirt comes in four parts so that it will fit on the majority of 3D printers.
+
+
+=== Skirt Part 1 ===
+[[File:CSL_Skirt_1_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Skirt Part 1
+|-
+|Length
+|129.64 mm
+|-
+|Width
+|190.11 mm
+|-
+|Height
+|66.50 mm
+|-
+|Volume 
+|594.36 cm2
+|-
+|Area
+|627.09 cm2
+|}
+
+=== Skirt Part 2 ===
+[[File:CSL_Skirt_2_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Skirt Part 2
+|-
+|Length
+|129.64 mm
+|-
+|Width
+|190.11 mm
+|-
+|Height
+|66.50 mm
+|-
+|Volume 
+|594.31 cm2
+|-
+|Area
+|629.50 cm2
+|}
+
+=== Skirt Part 3 ===
+[[File:CSL_Skirt_3_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Skirt Part 3
+|-
+|Length
+|127.72 mm
+|-
+|Width
+|100.47 mm
+|-
+|Height
+|66.50 mm
+|-
+|Volume 
+|300.30 cm2
+|-
+|Area
+|373.12 cm2
+|}
+
+=== Skirt Part 4 ===
+[[File:CSL_Skirt_4_Rev1.PNG|200px]]
+
+{| class="wikitable"
+|+Skirt Part 4
+|-
+|Length
+|127.72 mm
+|-
+|Width
+|100.47 mm
+|-
+|Height
+|66.50 mm
+|-
+|Volume 
+|300.32 cm2
+|-
+|Area
+|373.13 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Skirt_1_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Skirt_2_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Skirt_3_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Skirt_4_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+|2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

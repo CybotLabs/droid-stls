@@ -1,0 +1,7 @@
+restraining bolt:
+
+Length: 50.80mm
+Width: 32.16mm
+Height: 50.80mm
+Volume: 42.59 cm2
+Area: 86.86 cm2

@@ -1,0 +1,82 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Knurled Hose Fittings|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+
+
+Two versions of the knurled hose fittings are available.  The first is the pair of fittings on the foot strip.  The second is just a single knurled fitting.
+
+
+=== Mounted KHF ===
+[[File:CSL_Knurled_Hose_Fittings_Mounted_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Mounted KHF
+|-
+|Length
+|89.33 mm
+|-
+|Width
+|25.40 mm
+|-
+|Height
+|19.05 mm
+|-
+|Volume 
+|11.23 cm2
+|-
+|Area
+|84.65 cm2
+|}
+
+
+=== Knurled Fitting ===
+[[File:CSL_Knurled_Hose_Fittings_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Knurled Hose Fitting
+|-
+|Length
+|19.05 mm
+|-
+|Width
+|19.05 mm
+|-
+|Height
+|15.88 mm
+|-
+|Volume 
+|2.27 cm2
+|-
+|Area
+|21.16 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Knurled_Hose_Fittings_Mounted_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Knurled_Hose_Fittings_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

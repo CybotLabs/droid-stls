@@ -1,0 +1,79 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = Name Part |
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = May 09, 2015|
+ updated  = May 09, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+
+=== Octagon Port Base ===
+[[File:CSL_Octagon_Port_Base_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Octagon Port Base
+|-
+|Length
+|84.80 mm
+|-
+|Width
+|84.90 mm
+|-
+|Height
+|20.32 mm
+|-
+|Volume 
+|44.92 cm2
+|-
+|Area
+|234.80 cm2
+|}
+
+
+=== Octagon Port Base ===
+[[File:CSL_Octagon_Port_Wall_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Octagon Port Wall
+|-
+|Length
+|84.80 mm
+|-
+|Width
+|84.90 mm
+|-
+|Height
+|23.87 mm
+|-
+|Volume 
+|30.55 cm2
+|-
+|Area
+|147.00 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Octagon_Port_Base_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_Octagon_Port_Wall_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+
+== Revision History  ==
+
+|2015/06/08 - Added Revision 1 file, created wiki entry
+
+[[Category:3D Files]]

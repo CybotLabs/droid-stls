@@ -1,0 +1,55 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Half Moons|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+ 
+
+
+=== Half Moon ===
+[[File:CSL_Half_Moon_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Half Moon
+|-
+|Length
+|158.75 mm
+|-
+|Width
+|86.10 mm
+|-
+|Height
+|24.94 mm
+|-
+|Volume 
+|122.36 cm2
+|-
+|Area
+|256.83 cm2
+|}
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_Half_Moon_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]

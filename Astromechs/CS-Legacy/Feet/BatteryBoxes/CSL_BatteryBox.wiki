@@ -1,0 +1,222 @@
+{{Tutorial|
+ bgcolor = #00F|
+ fgcolor = #FFF|
+ name = CS:L Battery Box|
+ image = [[File:CSL_Logo.jpg|200px]]|
+ category = 3D Files Part Archive|
+ creators = Steele Smith ([[User:Steele|Steele]])|
+ contributors = Andrew Radovich |
+ date = June 08, 2015|
+ updated  = June 08, 2015|
+ note = STL files for 3D printing only.|
+ 
+}} 
+
+<br> 
+
+== Part Information  ==
+The CS:L Battery Boxes are available in two separate designs.  One is a complete print of the entire box, or the other is split into multiple files and will require the peices to be bonded together.
+
+
+== Battery Box One Piece Print ==
+
+=== Battery Box ===
+[[File:CSL_BatteryBox_Door_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Battery Box
+|-
+|Length
+|76.20 mm
+|-
+|Width
+|203.20 mm
+|-
+|Height
+|195.28 mm
+|-
+|Volume 
+|325.71 cm2
+|-
+|Area
+|2062.35 cm2
+|}
+
+=== Battery Box Door (one-piece) ===
+[[File:CSL_BatteryBox_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Door
+|-
+|Length
+|158.20 mm
+|-
+|Width
+|112.72 mm
+|-
+|Height
+|1.80 mm
+|-
+|Volume 
+|32.06 cm2
+|-
+|Area
+|365.81 cm2
+|}
+
+== Battery Box Split Box Design ==
+The split battery box design contrains 4 parts for the box, one door, and the nub.
+
+=== Split Box Part 1 ===
+[[File:CSL_BatteryBox_SpBx_1_of_4_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 1
+|-
+|Length
+|88.10 mm
+|-
+|Width
+|101.60 mm
+|-
+|Height
+|76.20 mm
+|-
+|Volume 
+|76.38 cm2
+|-
+|Area
+|495.33 cm2
+|}
+
+=== Split Box Part 2 ===
+[[File:CSL_BatteryBox_SpBx_2_of_4_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 2
+|-
+|Length
+|88.10 mm
+|-
+|Width
+|101.60 mm
+|-
+|Height
+|76.20 mm
+|-
+|Volume 
+|76.38 cm2
+|-
+|Area
+|495.33 cm2
+|}
+
+=== Split Box Part 3 ===
+[[File:CSL_BatteryBox_SpBx_3_of_4_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 3
+|-
+|Length
+|91.27 mm
+|-
+|Width
+|101.85 mm
+|-
+|Height
+|76.20 mm
+|-
+|Volume 
+| cm2
+|-
+|Area
+|507.90 cm2
+|}
+
+=== Split Box Part 4 ===
+[[File:CSL_BatteryBox_SpBx_4_of_4_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Part 4
+|-
+|Length
+|91.27 mm
+|-
+|Width
+|101.60 mm
+|-
+|Height
+|76.20 mm
+|-
+|Volume 
+| cm2
+|-
+|Area
+|507.63 cm2
+|}
+
+=== Split Box Door ===
+[[File:CSL_BatteryBox_SpBx_Door_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Door
+|-
+|Length
+|15.90 mm
+|-
+|Width
+|28.58 mm
+|-
+|Height
+|73.59 mm
+|-
+|Volume 
+|24.95 cm2
+|-
+|Area
+|59.14 cm2
+|}
+
+
+=== Split Box Nub ===
+[[File:CSL_BatteryBox_SpBx_Nub_Rev1.png|200px]]
+
+{| class="wikitable"
+|+Nub
+|-
+|Length
+|15.90 mm
+|-
+|Width
+|28.58 mm
+|-
+|Height
+|73.59 mm
+|-
+|Volume 
+|24.95 cm2
+|-
+|Area
+|59.14 cm2
+|}
+
+
+
+=== Instructions  ===
+Recommended print settings 20% infill, minimum of 3 shell layers.
+
+== Digital Files<br>  ==
+[[Media:CSL_BatteryBox_SpBx_1_of_4_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_BatteryBox_SpBx_2_of_4_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_BatteryBox_SpBx_3_of_4_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_BatteryBox_SpBx_4_of_4_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_BatteryBox_SpBx_Door_Rev1.zip]] Contains the STL file in Zip format.<br>
+[[Media:CSL_BatteryBox_SpBx_Nub_Rev1.zip]] Contains the STL file in Zip format.<br>
+
+
+== Revision History  ==
+
+2015/06/08 - Added Revision 1 files, created wiki entry -SS
+
+[[Category:3D Files]]
+

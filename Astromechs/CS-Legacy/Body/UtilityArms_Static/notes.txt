@@ -1,0 +1,33 @@
+Arm 1
+
+Length: 34.93 mm
+Width: 56.73 mm
+Height: 139.79 mm
+Volume: 158.04 cm2
+Area: 206.75 cm2
+
+Arm 2
+
+Length: 36.77 mm
+Width: 31.80 mm
+Height: 101.77 mm
+Volume: 58.72 cm2
+Area: 109.47 cm2
+
+
+Housing 1
+
+Length: 50.88 mm
+Width: 126.90 mm
+Height: 43.77 mm
+Volume: 74.56 cm2
+Area: 287.92 cm2
+
+Housing 2
+
+Length: 50.89 mm
+Width: 126.90 mm
+Height: 43.76 mm
+Volume: 75.04 cm2
+Area: 287.62 cm2
+
